@@ -38,10 +38,9 @@ Contains concrete devices like SmartLight and SmartAC.
 Application Layer
 Responsible for system orchestration including rooms and scenes.
 
----
+## Project Structure
 
-Project Structure
-
+```
 HomeOS
 │
 ├── infrastructure
@@ -64,8 +63,7 @@ HomeOS
 │      SceneManager
 │
 └── main.cpp
-
----
+```
 
 Key Components
 
