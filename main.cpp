@@ -3,9 +3,12 @@
 // © M_Abrazeg
 
 #include <iostream>
+#include "src/infrastructure/logger.h"
 using namespace std;
 
 int main () {
+
+   HomeOs::Logger::log(HomeOs::Level::INFO, "Main", "HomeOS Smart Home System started successfully.");
 
    return 0;
 }
