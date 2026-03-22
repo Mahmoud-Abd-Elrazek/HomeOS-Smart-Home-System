@@ -26,8 +26,8 @@ HomeOS/
 ├── README.md
 ├── src/
 │   └── infrastructure        
-│       └── - Logger.h        
-│       └── - Logger.cpp        
+│       └──  Logger.h        
+│       └──  Logger.cpp        
 │   └── abstractions         
 │   └── domain            
 │   └── devices            
